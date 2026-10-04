@@ -1,0 +1,14 @@
+{
+  "link_file": "run/desktop-host/link.json",
+  "rpc_timeout_seconds": 10,
+  "turn_timeout_seconds": 0,
+  "cancel_grace_seconds": 5,
+  "max_frame_bytes": 8388608,
+  "max_result_chars": 0,
+  "codex_notifications": {
+    "enabled": true,
+    "websocket_url": "ws://127.0.0.1:4500",
+    "rpc_timeout_seconds": 10,
+    "retry_seconds": 30
+  }
+}

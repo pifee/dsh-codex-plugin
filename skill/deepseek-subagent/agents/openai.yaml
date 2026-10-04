@@ -1,0 +1,6 @@
+interface:
+  display_name: "DeepSeek Subagent"
+  short_description: "Delegate suitable work through normal DSH tools"
+  default_prompt: "Use $deepseek-subagent to delegate this task to DeepSeek with the normal available DSH tools and native user approvals, then return its result and status."
+policy:
+  allow_implicit_invocation: true

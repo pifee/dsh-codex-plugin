@@ -1,0 +1,18 @@
+# Python and editor output
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+# Local instance configuration and generated data
+config/bridge.json
+.env
+.env.*
+data/
+run/
+.runtime/
+.test-runtime/
+*.log
+
+# Distribution output
+dist/

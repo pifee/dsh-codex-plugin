@@ -1,0 +1,14 @@
+{
+  "name": "@local/codex-dsh-desktop-link",
+  "version": "0.3.0",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
